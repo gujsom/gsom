@@ -1,0 +1,20 @@
+<publishData>
+  <publishTarget publishUrl="ftp://gujarati.ipower.com/gsom2/">
+    <file relUrl="GSOM_MAINMENU.ascx" publishTime="02/18/2009 21:08:50" />
+    <file relUrl="Web.config" publishTime="02/04/2009 08:56:59" />
+    <file relUrl="gsom.aspx" publishTime="02/18/2009 21:07:58" />
+    <file relUrl="Newsletters.aspx" publishTime="02/18/2009 21:15:41" />
+    <file relUrl="Images/BANNER_2.png" publishTime="02/06/2009 09:19:53" />
+    <file relUrl="Contactus.aspx" publishTime="02/18/2009 21:15:02" />
+    <file relUrl="Presmessage.aspx" publishTime="02/18/2009 21:15:41" />
+    <file relUrl="HTMLPage1.htm" publishTime="02/06/2009 16:20:21" />
+    <file relUrl="Committee.aspx" publishTime="02/18/2009 21:15:03" />
+    <file relUrl="Images/But_about_mouseover.png" publishTime="02/11/2009 13:16:00" />
+    <file relUrl="Images/But_about_mousedown.png" publishTime="02/11/2009 13:16:00" />
+    <file relUrl="Registration.aspx" publishTime="02/18/2009 21:15:27" />
+    <file relUrl="Events.aspx" publishTime="02/18/2009 21:15:02" />
+    <file relUrl="Images/But_about_mouseout.png" publishTime="02/11/2009 12:11:00" />
+    <file relUrl="JScript1.js" publishTime="02/16/2009 13:40:49" />
+    <file relUrl="GSOM_HEADER.ASCX" publishTime="02/18/2009 15:02:20" />
+  </publishTarget>
+</publishData>
