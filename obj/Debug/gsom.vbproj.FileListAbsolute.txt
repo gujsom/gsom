@@ -1,0 +1,10 @@
+C:\Users\Kalpesh\git\gsom\bin\gsom.dll
+C:\Users\Kalpesh\git\gsom\bin\gsom.pdb
+C:\Users\Kalpesh\git\gsom\bin\gsom.xml
+C:\Users\Kalpesh\git\gsom\obj\Debug\gsom.vbprojResolveAssemblyReference.cache
+C:\Users\Kalpesh\git\gsom\obj\Debug\gsom.vbproj.ResolveComReference.cache
+C:\Users\Kalpesh\git\gsom\obj\Debug\gsom.Resources.resources
+C:\Users\Kalpesh\git\gsom\obj\Debug\gsom.vbproj.GenerateResource.Cache
+C:\Users\Kalpesh\git\gsom\obj\Debug\gsom.dll
+C:\Users\Kalpesh\git\gsom\obj\Debug\gsom.xml
+C:\Users\Kalpesh\git\gsom\obj\Debug\gsom.pdb
