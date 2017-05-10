@@ -63,33 +63,29 @@
        <td>
        Saturday
        </td>
-       <td>
-       March 11,2017<br /> 
-Timing: 1:00PM to 5:00PM      
-       </td>
-       <td>
-       <!-- Coolbrooke Chalet<br /> -->            
-      45 Thornton Street<br/>
-Dollard Des Ormeaux, QC<br/>        
-         Admission - Free<br /> 
-       </td>
+       <td>March 11th, 2017<br /> Timing: 1:00PM to 5:00PM </td>
+       <td>45 Thornton Street<br/>Dollard Des Ormeaux, QC<br/>Admission - Free<br /> </td>
        </tr>
        <tr>
-       <td>
        <!--a href="viewpic.aspx?event=anandbazaar" title="Click here to view the pictures">Anand Bazaar</a-->
-       <a>Anand Bazaar</a>
-       </td>
-       <td>
-       Saturday
-       </td>
-       <td>
-       May 27,2017<br />
-Timing: 4:00PM to 8:00PM       
-       </td>
-       <td>MaryMount Academy <br/>
-5100 Cote Saint-Luc, Montreal <br/>
-H3G 2W9 <br/>         
-       </td>
+       <td><a>Anand Bazaar</a></td>
+       <td>Saturday</td>
+       <td>May 27th, 2017<br />Timing: 4:00PM to 8:00PM</td>
+       <td>MaryMount Academy <br/>5100 Cote Saint-Luc, Montreal <br/>H3G 2W9 <br/></td>
+       </tr>
+       <tr>
+       <!--a href="viewpic.aspx?event=anandbazaar" title="Click here to view the pictures">Anand Bazaar</a-->
+       <td><a>First Summer Picnic</a></td>
+       <td>Sunday</td>
+       <td>July 9th, 2017</td>
+       <td>Centennial Park <br /> DDO, Montreal <br/></td>
+       </tr>
+       <tr>
+       <!--a href="viewpic.aspx?event=anandbazaar" title="Click here to view the pictures">Anand Bazaar</a-->
+       <td>Second Summer Picnic</td>
+       <td>Saturday</td>
+       <td>July 29th, 2017</td>
+       <td>Day Trip to Quebec City</td>
        </tr>
 <!--<tr>
        <td>
@@ -106,35 +102,12 @@ H3G 2W9 <br/>
        <a>ISKCON Temple, New Vrindavan, WV</a>
        </td>
        </tr>-->
-       <tr>
-       <td>
-       <!--a href="viewpic.aspx?event=picnic" title="Click here to view the pictures">Summer Picnic</a-->
-	   <a>Summer Picnic & Annual general Meeting</a>
-       </td>
-       <td>
-       Saturday
-       </td>
-       <td>
-       TBD<br />       
-       </td>
-       <td>
-       <a>TBD</a>
-       </td>
-       </tr>
 
        <tr>
-       <td>
-       International Day
-       </td>
-       <td>
-       Sunday 
-       </td>
-       <td>
-       TBD<br /> 
-       </td>
-       <td>
-       TDB
-       </td>
+       <td>International Day</td>
+       <td>Sunday </td>
+       <td>August 20th, 2017<br /> </td>
+       <td>DDO</td>
        </tr>
        
        <tr>
@@ -162,7 +135,7 @@ H3G 2W9 <br/>
        Saturday
        </td>
        <td>
-       October 21st,2017<br/>
+       October 28th,2017<br/>
        Timing: 5.00pm to 12.00am              
        </td>
        <td>
